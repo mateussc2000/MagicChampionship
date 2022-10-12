@@ -12,3 +12,4 @@ User:
 dowload card collection from:
 https://magic.wizards.com/pt-br/articles/archive/card-image-gallery/dominaria-united
 
+Bootstrap: https://getbootstrap.com/docs/5.2/getting-started/introduction/
