@@ -1,0 +1,14 @@
+Card:
+-Id
+-Image
+
+
+User:
+-Name
+-Id
+-Array de Cards
+
+
+dowload card collection from:
+https://magic.wizards.com/pt-br/articles/archive/card-image-gallery/dominaria-united
+
